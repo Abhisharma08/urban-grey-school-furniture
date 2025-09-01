@@ -34,7 +34,7 @@ export function Gallery() {
             Products <span className="text-accent">Gallery</span>
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-foreground/80 md:text-xl">
-        Designed for comfort. Crafted for community. Explore our best-selling cafeteria collections
+         Crafted for experience. Built for business. Explore our restaurant furniture collections.
           </p>
         </div>
         <div className="mt-16">
