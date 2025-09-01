@@ -18,7 +18,7 @@ const galleryItems = [
   },
   {
     title: "Outdoor & Patio Furniture",
-    description: "Durable solutions for terraces, rooftops, and open-air dining..",
+    description: "Durable solutions for terraces, rooftops, and open-air dining.",
     image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.18_PM_jodaae.jpg",
     hint: "Outdoor & Patio Furniture",
   },
