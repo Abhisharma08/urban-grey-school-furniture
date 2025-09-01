@@ -19,10 +19,10 @@ const HubspotUpsertInputSchema = z.object({
   phoneNumber: z.string().optional().describe("The contact's phone number."),
   city: z.string().optional().describe("The contact's city."),
   requirement: z.enum([
-    "Boardroom Elegance", 
-    "Collaborative Meeting Zones", 
-    "Compact Conference Settings", 
-    "Integrated Tech & Storage"
+    "Dining Tables & Chairs", 
+    "Booth & Sofa Seating", 
+    "Outdoor & Patio Furniture", 
+ 
     ]).optional().describe('The contact\'s furniture requirement.'),
   quantity: z.enum(["3+", "6+", "8+", "12+", "15+", "20+"]).optional().describe('The required quantity.'),
 });
