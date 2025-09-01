@@ -6,8 +6,8 @@ import Script from 'next/script';
 
 
 export const metadata: Metadata = {
-  title: 'Buy Conference Chairs Online – Executive & Ergonomic Seating | Urban Grey',
-  description: 'Explore premium conference chairs at Urban Grey. Discover ergonomic, executive, and mesh seating crafted for boardrooms and meeting rooms. Stylish design, lasting comfort, and fast delivery across India.',
+  title: 'Restaurant Furniture That Balances Style & Durability',
+  description: '',
   keywords: 'workspace Products, urban grey furniture, office solutions, commercial furniture, workspace solutions',
 };
 
