@@ -188,8 +188,8 @@ export function QuoteForm() {
                           </SelectTrigger>
                         </FormControl>
                         <SelectContent>
-                          <SelectItem value="Dining Tables & Chairs">Dining Tables & Chairs</SelectItem>
-                          <SelectItem value="Booth & Sofa Seating">Booth & Sofa Seating</SelectItem>
+                          <SelectItem value="Dining Tables & Chairs">Casual Dining Tables</SelectItem>
+                          <SelectItem value="Booth & Lounge Seating">Booth & Lounge Seating</SelectItem>
                           <SelectItem value="Outdoor & Patio Furniture">Outdoor & Patio Furniture</SelectItem>
                           
                         </SelectContent>

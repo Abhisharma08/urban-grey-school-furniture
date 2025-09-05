@@ -16,10 +16,11 @@ export function Hero() {
         <div className="grid grid-cols-1 items-center gap-12 lg:grid-cols-2">
           <div className="space-y-6 text-center lg:text-left">
             <h1 className="font-headline text-4xl font-bold tracking-tight text-primary-foreground sm:text-5xl md:text-6xl">
-              <span className="text-accent">Restaurant Furniture</span> That Balances Style & Durability
+              <span className="text-accent">Cafe,Cafeteria & Restaurant Furniture </span> for Every Space
             </h1>
             <p className="max-w-xl text-lg text-white lg:mx-0 mx-auto md:text-xl">
-               At Urban Grey, we create restaurant furniture that defines ambience while withstanding everyday use. From fine-dining elegance to casual setups, our furniture delivers a blend of durability, design, and comfort that keeps guests coming back.
+               At Urban Grey, we design café, cafeteria, and restaurant furniture that goes beyond functionality. From quick coffee breaks and team lunches to fine dining and casual meals, our collections blend style, durability, and everyday usability.
+
 
             </p>
           </div>

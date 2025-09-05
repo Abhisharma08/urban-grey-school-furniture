@@ -5,16 +5,16 @@ import Link from "next/link";
 
 const galleryItems = [
   {
-    title: "Dining Tables & Chairs",
-    description: " Premium designs for every dining mood — from intimate settings to group gatherings.",
+    title: "Casual Dining Tables",
+    description: "Sturdy, easy-to-clean surfaces built for daily high traffic.",
     image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.20_PM_see0p5.jpg",
-    hint: "Dining Tables & Chairs",
+    hint: "Casual Dining Tables",
   },
   {
-    title: "Booth & Sofa Seating",
-    description: "Comfort-driven seating that elevates guest experience.",
+    title: "Booth & Lounge Seating",
+    description: "Comfortable setups that create cozy, social, and welcoming zones.",
     image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.19_PM_umpbbp.jpg",
-    hint: "Booth & Sofa Seating",
+    hint: "Booth & Lounge Seating",
   },
   {
     title: "Outdoor & Patio Furniture",
@@ -34,7 +34,7 @@ export function Gallery() {
             Products <span className="text-accent">Gallery</span>
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-foreground/80 md:text-xl">
-         Crafted for experience. Built for business. Explore our restaurant furniture collections.
+         Designed for comfort. Crafted for experience. Built for business. Explore our best-selling collections:
           </p>
         </div>
         <div className="mt-16">

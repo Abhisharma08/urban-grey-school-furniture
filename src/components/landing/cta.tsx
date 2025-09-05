@@ -10,7 +10,7 @@ export function CTA() {
            Ready to Shape Your Space?
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-accent-foreground/80 md:text-xl">
-            Download our latest catalogue to explore our full range of restaurant furniture — and get a personalized quote tailored for your project.
+            Download our latest catalogue to explore our complete collection of café, cafeteria, and restaurant furniture — and get a personalized quote for your project.
           </p>
           <div className="mt-10">
             <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 text-lg">
