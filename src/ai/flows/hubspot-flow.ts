@@ -20,8 +20,8 @@ const HubspotContactInputSchema = z.object({
   phoneNumber: z.string().optional().describe('The contact\'s phone number.'),
   city: z.string().optional().describe("The contact's city."),
   requirement: z.enum([
-    "Dining Tables & Chairs", 
-    "Booth & Sofa Seating", 
+    "Casual Dining Tables", 
+    "Booth & Lounge Seating", 
     "Outdoor & Patio Furniture", 
   
     ]).optional().describe('The contact\'s furniture requirement.'),
