@@ -3,7 +3,7 @@ import { Award, Rocket, Users, Gem } from "lucide-react";
 const features = [
   {
     icon: <Award className="h-10 w-10 text-accent" />,
-    title: "Over 15 years of Products & manufacturing expertise",
+    title: "Over 15 years of product & manufacturing expertise",
   },
   {
     icon: <Rocket className="h-10 w-10 text-accent" />,
@@ -11,11 +11,11 @@ const features = [
   },
   {
     icon: <Users className="h-10 w-10 text-accent" />,
-    title: "Trusted by 500+ restaurants & hospitality brands",
+    title: "Trusted by leading schools & institutions",
   },
   {
     icon: <Gem className="h-10 w-10 text-accent" />,
-    title: "Premium materials built for style and durability",
+    title: "Ergonomic designs built for safety and durability",
   },
 ];
 
@@ -28,7 +28,7 @@ export function WhyChooseUs() {
             Why Urban Grey?
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-foreground/80 md:text-xl">
-             We’re more than just furniture. We’re your partners in creating unforgettable dining experiences.
+            We’re more than just furniture. We’re your partners in shaping brighter learning spaces.
           </p>
         </div>
         <div className="mt-16 grid gap-12 md:grid-cols-2 lg:grid-cols-4">

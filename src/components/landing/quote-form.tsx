@@ -27,9 +27,9 @@ const stepOneSchema = z.object({
 const stepTwoSchema = z.object({
   city: z.string().min(2, "Please enter a city."),
   requirement: z.enum([
-    "Dining Tables & Chairs",
-    "Booth & Sofa Seating",
-    "Outdoor & Patio Furniture",
+    "Classroom Desks & Benches",
+    "Library & Collaborative Seating",
+    "Kindergarten Desks & Benches",
   
   ], {
     errorMap: () => ({ message: "Please select a requirement." }),

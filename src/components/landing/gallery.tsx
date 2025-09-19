@@ -5,22 +5,22 @@ import Link from "next/link";
 
 const galleryItems = [
   {
-    title: "Casual Dining Tables",
-    description: "Sturdy, easy-to-clean surfaces built for daily high traffic.",
-    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.20_PM_see0p5.jpg",
-    hint: "Casual Dining Tables",
+    title: "Classroom Desks & Benches",
+    description: "Posture-friendly designs built for long hours of study and daily use.",
+    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1758261167/WhatsApp_Image_2025-09-19_at_11.16.32_AM_q5u17d.jpg",
+    hint: "Classroom Desks & Benches",
   },
   {
-    title: "Booth & Lounge Seating",
+    title: "Library & Collaborative Seating",
     description: "Comfortable setups that create cozy, social, and welcoming zones.",
-    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.19_PM_umpbbp.jpg",
-    hint: "Booth & Lounge Seating",
+    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1758261167/WhatsApp_Image_2025-09-19_at_11.16.31_AM_1_bftxuw.jpg",
+    hint: "Library & Collaborative Seating",
   },
   {
-    title: "Outdoor & Patio Furniture",
-    description: "Durable solutions for terraces, rooftops, and open-air dining.",
-    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1756537629/WhatsApp_Image_2025-08-30_at_12.29.18_PM_jodaae.jpg",
-    hint: "Outdoor & Patio Furniture",
+    title: "Kindergarten Desks & Benches",
+    description: "Playful, safe, and colorful designs crafted for young learners.",
+    image: "https://res.cloudinary.com/dtc8bbbco/image/upload/v1758261167/WhatsApp_Image_2025-09-19_at_11.16.31_AM_lqmaye.jpg",
+    hint: "Kindergarten Desks & Benches",
   },
 
 ];
@@ -34,7 +34,7 @@ export function Gallery() {
             Products <span className="text-accent">Gallery</span>
           </h2>
           <p className="mx-auto mt-6 max-w-3xl text-lg text-foreground/80 md:text-xl">
-         Designed for comfort. Crafted for experience. Built for business. Explore our best-selling collections:
+        Designed for learning. Crafted for comfort. Built for growth. Explore our best-selling school furniture collections:
           </p>
         </div>
         <div className="mt-16">
