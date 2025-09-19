@@ -6,9 +6,9 @@ import Script from 'next/script';
 
 
 export const metadata: Metadata = {
-  title: 'Restaurant Furniture That Balances Style & Durability',
-  description: '',
-  keywords: 'workspace Products, urban grey furniture, office solutions, commercial furniture, workspace solutions',
+  title: 'School Furniture for Every Classroom — Urban Grey',
+  description: 'At Urban Grey, we design school furniture that goes beyond function — building spaces where students learn, focus, and grow. From primary classrooms and libraries to labs and common areas, our collections balance comfort, durability, and learning-friendly design.',
+  keywords: 'School Furniture, Classroom Desks & Benches, Library Seating, Kindergarten Furniture, Collaborative Seating, Ergonomic Designs',
 };
 
 export default function RootLayout({
